@@ -8,6 +8,7 @@ I have been learning about Web Dev for like almost a year and I am very passiona
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [ameraizat98@gmail.com](mailto:ameraizat98@gmail.com)
+* 🖥️  See my portfolio at [Amer's portfolio](http://amerportfolio.vercel.app/portfolio)
 * 🚀  I'm currently working on [Point Of Sale (POS) Sytem](http://posrestaurant.netlify.app/)
 * 🧠  I'm learning Next Js ,TypeScript and Backend Stuff
 
